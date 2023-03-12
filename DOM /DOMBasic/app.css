@@ -1,0 +1,26 @@
+html{
+height: 100%;
+width: 100%;
+text-align: center;
+}
+body {
+height: 100%;
+width: 100%;
+text-align: center;
+background-color: rgb(31, 133, 133);
+}
+
+.first{
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    color: blueviolet;
+}
+
+.second{
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    color: rgb(74, 27, 118);
+    
+}

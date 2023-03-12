@@ -1,0 +1,11 @@
+
+    html,body{
+    height: 100%;
+    width: 100%;
+    }
+    #first{
+    background-color: cyan;
+    }
+    body{
+    background-color: red;
+    }

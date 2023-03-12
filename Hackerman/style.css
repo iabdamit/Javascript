@@ -1,0 +1,14 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+
+body{
+    background: black !important;
+}
+.card{
+margin: 35px 70px;
+text-align: center;
+color: green;
+}
